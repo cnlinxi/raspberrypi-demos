@@ -29,4 +29,5 @@ Raspberry Pi-A computer for playing: https://www.raspberrypi.org/
     - `sudo pigpiod`
 
     the negetive pole of LED light -> GND
+
     the positive pole of LED light -> GPIO15
